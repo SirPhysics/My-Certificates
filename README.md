@@ -1,4 +1,3 @@
 # My-Certificates
-[Google Data Analytics Professional Certifica.pdf](https://github.com/SirPhysics/My-Certificates/files/8347039/Google.Data.Analytics.Professional.Certifica.pdf)
-[Financ[Excel Skills for Business.pdf](https://github.com/SirPhysics/My-Certificates/files/8347042/Excel.Skills.for.Business.pdf)
-ial Markets.pdf](https://github.com/SirPhysics/My-Certificates/files/8347040/Financial.Markets.pdf)
+
+![Excel Skills for Business](https://user-images.githubusercontent.com/62376291/160047051-d307a3bb-ce64-4892-815c-3ed0cc8bc8dd.png)
