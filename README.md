@@ -23,4 +23,4 @@ In the near future I will add what I've learned in these classes here.
 [MITx 6.431x Certificate edX.pdf](https://github.com/SirPhysics/My-Certificates/files/8347165/MITx.6.431x.Certificate.edX.pdf)
 
 ![StanfordOnline CSX0001 Certificate edX](https://user-images.githubusercontent.com/62376291/160049576-8204e3da-fd88-4056-8e4a-376812a793f6.png)
-![StanfordOnline CSX0001 Certificate edX](https://user-images.githubusercontent.com/62376291/160049577-5c31b46f-4f46-44ef-a446-c1b6aa94366d.png)
+[StanfordOnline CSX0001 Certificate edX.pdf](https://github.com/SirPhysics/My-Certificates/files/8347170/StanfordOnline.CSX0001.Certificate.edX.pdf)
