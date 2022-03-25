@@ -19,6 +19,9 @@ In the near future I will add what I've learned in these classes here.
 ![Introduction to Philosophy](https://user-images.githubusercontent.com/62376291/160048445-8e612a34-37c4-492f-902b-e4c49c2baa4f.png)
 [Introduction to Philosophy.pdf](https://github.com/SirPhysics/My-Certificates/files/8347117/Introduction.to.Philosophy.pdf)
 
+![Introduction to Psychology](https://user-images.githubusercontent.com/62376291/160106705-3b7c0902-3af4-40de-bdd3-7698670a6fb0.png)
+[Introduction to Psychology.pdf](https://github.com/SirPhysics/My-Certificates/files/8349677/Introduction.to.Psychology.pdf)
+
 ![MITx 6 431x Certificate edX](https://user-images.githubusercontent.com/62376291/160049540-a7a4776a-deff-4bfd-8dbd-4205a84ab13e.png)
 [MITx 6.431x Certificate edX.pdf](https://github.com/SirPhysics/My-Certificates/files/8347165/MITx.6.431x.Certificate.edX.pdf)
 
