@@ -18,3 +18,9 @@ In the near future I will add what I've learned in these classes here.
 
 ![Introduction to Philosophy](https://user-images.githubusercontent.com/62376291/160048445-8e612a34-37c4-492f-902b-e4c49c2baa4f.png)
 [Introduction to Philosophy.pdf](https://github.com/SirPhysics/My-Certificates/files/8347117/Introduction.to.Philosophy.pdf)
+
+![MITx 6 431x Certificate edX](https://user-images.githubusercontent.com/62376291/160049540-a7a4776a-deff-4bfd-8dbd-4205a84ab13e.png)
+[MITx 6.431x Certificate edX.pdf](https://github.com/SirPhysics/My-Certificates/files/8347165/MITx.6.431x.Certificate.edX.pdf)
+
+![StanfordOnline CSX0001 Certificate edX](https://user-images.githubusercontent.com/62376291/160049576-8204e3da-fd88-4056-8e4a-376812a793f6.png)
+![StanfordOnline CSX0001 Certificate edX](https://user-images.githubusercontent.com/62376291/160049577-5c31b46f-4f46-44ef-a446-c1b6aa94366d.png)
