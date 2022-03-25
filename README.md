@@ -1,5 +1,9 @@
 # My-Certificates
 
+The certificates for the courses and specialisations I've completed thus far are listed below.
+Others for enjoyment, some to improve my knowledge, and some for both!
+In the near future I will add what I've learned in these classes here. 
+
 ![Excel Skills for Business](https://user-images.githubusercontent.com/62376291/160047051-d307a3bb-ce64-4892-815c-3ed0cc8bc8dd.png)
 ![Excel Skills for Business.pdf](https://github.com/SirPhysics/My-Certificates/files/8347091/Excel.Skills.for.Business.pdf)
 
